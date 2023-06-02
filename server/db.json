@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "rollno": "22",
+      "name": "saraswathi",
+      "email": "s@gmail.com",
+      "branch": "cse",
+      "id": "Mtusi43"
+    },
+    {
+      "rollno": "33",
+      "name": "ansh",
+      "email": "ansh@gmail.com",
+      "branch": "IT",
+      "id": "eH9XkV_"
+    },
+    {
+      "rollno": "24",
+      "name": "saras",
+      "email": "saras3@gmail.com",
+      "branch": "CSE",
+      "id": "StN6FL1"
+    },
+    {
+      "rollno": "26",
+      "name": "hii",
+      "email": "hii@gmail.com",
+      "branch": "ITF2",
+      "id": "-F-cI2n"
+    }
+  ]
+}
